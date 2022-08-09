@@ -2,7 +2,7 @@
 
 ## 1	AcWing 1473. A + B 格式	PAT甲级真题1001
 
-![image-20220801234752261](image-20220801234752261.png)
+![image-20220801234752261](https://s2.loli.net/2022/08/09/OF7fpwMBrAdLhDS.png)
 
 ```c++
 #include <iostream>
@@ -33,7 +33,7 @@ int main()
 
 ## 2	AcWing 1477. 拼写正确	PAT甲级真题1005
 
-![image-20220801235849969](image-20220801235849969.png)
+![image-20220801235849969](https://s2.loli.net/2022/08/09/1tJh38zMTL9iYgn.png)
 
 ```c++
 #include <iostream>
@@ -65,7 +65,7 @@ int main()
 
 ## 3	AcWing 1478. 签到与签出 	PAT甲级真题1006
 
-![image-20220801235917376](image-20220801235917376.png)
+![image-20220801235917376](https://s2.loli.net/2022/08/09/pvVf8esYlgIH6Gq.png)
 
 ```c++
 #include <iostream>
@@ -109,7 +109,7 @@ int main()
 
 ## 4	AcWing 1519. 密码	PAT甲级真题1035
 
-![image-20220801235817043](image-20220801235817043.png)
+![image-20220801235817043](https://s2.loli.net/2022/08/09/GKrMiD4Qhaq76A3.png)
 
 ```c++
 #include <iostream>
@@ -175,7 +175,7 @@ int main()
 
 ## 5	AcWing 1520. 男孩 vs 女孩	PAT甲级真题1006
 
-![image-20220802000016025](image-20220802000016025.png)
+![image-20220802000016025](https://s2.loli.net/2022/08/09/yOThVsBfHeCSWDQ.png)
 
 ```c++
 #include <iostream>
@@ -234,7 +234,7 @@ int main()
 
 ## 6	AcWing 1534. 字符串减法	PAT甲级真题1050
 
-![image-20220802000232720](image-20220802000232720.png)
+![image-20220802000232720](https://s2.loli.net/2022/08/09/SbaeyWt9chpHV8Q.png)
 
 ```c++
 #include <iostream>
@@ -268,7 +268,7 @@ int main()
 
 ## 7	AcWing 1557. 说话方式	PAT甲级真题1071
 
-![image-20220802000515108](image-20220802000515108.png)
+![image-20220802000515108](https://s2.loli.net/2022/08/09/OEYl1xKs693LVDU.png)
 
 ```
 #include <iostream>
@@ -328,7 +328,7 @@ int main()
 
 ## 8	AcWing 1547. 约会	PAT甲级真题1061
 
-![image-20220802000558372](image-20220802000558372.png)
+![image-20220802000558372](https://s2.loli.net/2022/08/09/kUXgSL3zcuQ8tpV.png)
 
 ```c++
 #include <cstdio>
@@ -377,7 +377,7 @@ int main()
 
 ## 9	AcWing 1493. 电话账单	PAT甲级真题1016
 
-![image-20220802000641768](image-20220802000641768.png)
+![image-20220802000641768](https://s2.loli.net/2022/08/09/pO24ELPgkCKNq19.png)
 
 ```c++
 #include <cstdio>
@@ -459,7 +459,7 @@ int main()
 
 ## 10	AcWing 1494. 银行排队	PAT甲级真题1017
 
-![image-20220802000741828](image-20220802000741828.png)
+![image-20220802000741828](https://s2.loli.net/2022/08/09/9bklPW25g6MYXTq.png)
 
 ```
 #include <cstdio>
@@ -535,7 +535,7 @@ int main()
 
 ## 11	AcWing 1503. 乒乓球	PAT甲级真题1026
 
-![image-20220802000831046](image-20220802000831046.png)
+![image-20220802000831046](https://s2.loli.net/2022/08/09/fPVegaCdITY2s59.png)
 
 ```
 #include <cstdio>
@@ -709,7 +709,7 @@ int main()
 
 ## 12	AcWing 1546. 它们是否相等	PAT甲级真题1060
 
-![image-20220802000938028](image-20220802000938028.png)
+![image-20220802000938028](https://s2.loli.net/2022/08/09/Jx1Vqde7f6luhLg.png)
 
 ```
 #include <iostream>
@@ -757,7 +757,7 @@ int main()
 
 ## 13	AcWing 1559. 科学计数法
 
-![image-20220802001045577](image-20220802001045577.png)
+![image-20220802001045577](https://s2.loli.net/2022/08/09/fsuEW8r47aLPenq.png)
 
 ```
 #include <iostream>
@@ -795,7 +795,7 @@ int main()
 
 ## 14	AcWing 1563. Kuchiguse	PAT甲级真题1077
 
-![image-20220802001255020](image-20220802001255020.png)
+![image-20220802001255020](https://s2.loli.net/2022/08/09/Tv4Uj7wDPtWp1yo.png)
 
 ```
 #include <iostream>
@@ -847,7 +847,7 @@ int main()
 
 ## 15	AcWing 1568. 中文读数字	PAT甲级真题1082
 
-![image-20220802001343372](image-20220802001343372.png)
+![image-20220802001343372](https://s2.loli.net/2022/08/09/hRirnlC1SF4PmxE.png)
 
 ```
 #include <iostream>
@@ -929,7 +929,7 @@ int main()
 
 ## 16	AcWing 1570. 坏掉的键盘	PAT甲级真题1084
 
-![image-20220802001425367](image-20220802001425367.png)
+![image-20220802001425367](https://s2.loli.net/2022/08/09/fhqkvERd4je5AgV.png)
 
 ```
 #include <iostream>
@@ -966,7 +966,7 @@ int main()
 
 ## 17	AcWing 1598. 求平均值	PAT甲级真题1108
 
-![image-20220802001458968](image-20220802001458968.png)
+![image-20220802001458968](https://s2.loli.net/2022/08/09/48JKPUSmEph5dY3.png)
 
 ```
 #include <iostream>
@@ -1026,7 +1026,7 @@ int main()
 
 ## 18	AcWing 1617. 微博转发抽奖	PAT甲级真题1124
 
-![image-20220802001550870](image-20220802001550870.png)
+![image-20220802001550870](https://s2.loli.net/2022/08/09/kFsojDp3JuyBCEv.png)
 
 ```
 #include <iostream>
@@ -1073,7 +1073,7 @@ int main()
 
 ## 19	AcWing 1634. PAT单位排行
 
-![image-20220802001636911](image-20220802001636911.png)
+![image-20220802001636911](https://s2.loli.net/2022/08/09/OlIC5EW8wPd4Hys.png)
 
 ```
 #include <iostream>
@@ -1153,7 +1153,7 @@ int main()
 
 ## 20	AcWing 1647. 解码PAT准考证
 
-![image-20220802001731129](image-20220802001731129.png)
+![image-20220802001731129](https://s2.loli.net/2022/08/09/XncrI7FLMY2biTD.png)
 
 ```
 #include <iostream>
@@ -1247,7 +1247,7 @@ int main()
 
 ## 1	AcWing 1474. 多项式 A + B
 
-![image-20220802002036190](image-20220802002036190.png)
+![image-20220802002036190](https://s2.loli.net/2022/08/09/2EKmJpCHB1qGgfe.png)
 
 ```
 #include <iostream>
@@ -1306,7 +1306,7 @@ int main()
 
 ## 2	AcWing 1481. 多项式乘积
 
-![image-20220802002106912](image-20220802002106912.png)
+![image-20220802002106912](https://s2.loli.net/2022/08/09/dA3aUWVwtKzYgoe.png)
 
 ```
 #include <iostream>
@@ -1363,7 +1363,7 @@ int main()
 
 ## 3	AcWing 1500. 趣味数字
 
-![image-20220802002146796](image-20220802002146796.png)
+![image-20220802002146796](https://s2.loli.net/2022/08/09/sRFtWZreYO8KNDl.png)
 
 ```
 #include <iostream>
@@ -1411,7 +1411,7 @@ int main()
 
 ## 4	AcWing 1501. 回文数
 
-![image-20220802002222381](image-20220802002222381.png)
+![image-20220802002222381](https://s2.loli.net/2022/08/09/tm3ODAVBgTC4WI6.png)
 
 ```
 #include <iostream>
@@ -1479,7 +1479,7 @@ int main()
 
 ## 5	AcWing 1544. 霍格沃茨的 A + B       
 
-## ![image-20220802002327695](image-20220802002327695.png)    
+![image-20220802002327695](https://s2.loli.net/2022/08/09/8iBfchomFqlHgsX.png)    
 
 ```
 #include <iostream>
@@ -1505,7 +1505,7 @@ int main()
 
 ## 6	AcWing 1629. 延迟的回文数
 
-![image-20220802002307521](image-20220802002307521.png)
+![image-20220802002307521](https://s2.loli.net/2022/08/09/oNmQh6uC3Yt1q8s.png)
 
 ```
 #include <iostream>
@@ -1568,6 +1568,919 @@ int main()
 
 作者：yxc
 链接：https://www.acwing.com/activity/content/code/content/323515/
+来源：AcWing
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+
+# 第三章 进制
+
+## 1.进制
+
+![image-20220809131012279](https://s2.loli.net/2022/08/09/vjYtI1nWx7rLo9l.png)
+
+```c++
+#include <iostream>
+#include <algorithm>
+
+using namespace std;
+
+typedef long long LL;
+
+
+int get(char c)
+{
+    if (c <= '9') return c - '0';
+    return c - 'a' + 10;
+}
+
+
+LL calc(string n, LL r)
+{
+    LL res = 0;
+    for (auto c : n)
+    {
+        if ((double)res * r + get(c) > 1e16) return 1e18;
+        res = res * r + get(c);
+    }
+    return res;
+}
+
+
+int main()
+{
+    string n1, n2;
+    cin >> n1 >> n2;
+    int tag, radix;
+    cin >> tag >> radix;
+
+    if (tag == 2) swap(n1, n2);
+    LL target = calc(n1, radix);
+
+    LL l = 0, r = max(target, 36ll);
+    for (auto c : n2) l = max(l, (LL)get(c) + 1);
+
+    while (l < r)
+    {
+        LL mid = l + r >> 1;
+        if (calc(n2, mid) >= target) r = mid;
+        else l = mid + 1;
+    }
+
+    if (calc(n2, r) != target) puts("Impossible");
+    else cout << r << endl;
+
+    return 0;
+}
+```
+
+## 2.1492. 可逆质数
+
+![image-20220809131221365](https://s2.loli.net/2022/08/09/w4cRCQidByDhoFL.png)
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+typedef long long LL;
+
+bool is_prime(int n)
+{
+    if (n == 1) return false;
+
+    for (int i = 2; i * i <= n; i ++ )
+        if (n % i == 0)
+            return false;
+    return true;
+}
+
+bool check(int n, int d)
+{
+    if (!is_prime(n)) return false;
+
+    LL r = 0;
+    while (n)
+    {
+        r = r * d + n % d;
+        n /= d;
+    }
+
+    return is_prime(r);
+}
+
+int main()
+{
+    int n, d;
+    while (cin >> n >> d, n >= 1)
+    {
+        if (check(n, d)) puts("Yes");
+        else puts("No");
+    }
+
+    return 0;
+}
+```
+
+## 3. 1504. 火星颜色
+
+![image-20220809131329755](https://s2.loli.net/2022/08/09/2efqvY8THUtP5rJ.png)
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+char get(int x)
+{
+    if (x <= 9) return '0' + x;
+    return 'A' + x - 10;
+}
+
+int main()
+{
+    int a[3];
+    for (int i = 0; i < 3; i ++ ) scanf("%d", &a[i]);
+
+    cout << '#';
+
+    for (int i = 0; i < 3; i ++ ) cout << get(a[i] / 13) << get(a[i] % 13);
+
+    return 0;
+}
+```
+
+## 4. 1590. 火星数字
+
+![image-20220809131421624](https://s2.loli.net/2022/08/09/CTXNJuqpMAHas4Z.png)
+
+```c++
+#include <iostream>
+#include <sstream>
+
+using namespace std;
+
+char names[][5] = {
+    "tret", "jan", "feb", "mar", "apr", "may", "jun", "jly", "aug", "sep", "oct", "nov", "dec",
+    "tam", "hel", "maa", "huh", "tou", "kes", "hei", "elo", "syy", "lok", "mer", "jou",
+};
+
+int get(string word)
+{
+    for (int i = 0; i < 25; i ++ )
+        if (names[i] == word)
+        {
+            if (i < 13) return i;
+            return (i - 12) * 13;
+        }
+    return -1;  // 一定不会执行
+}
+
+int main()
+{
+    int n;
+    cin >> n;
+    getchar();
+
+    while (n -- )
+    {
+        string line;
+        getline(cin, line);
+
+        stringstream ssin(line);
+        if (line[0] <= '9')
+        {
+            int v;
+            ssin >> v;
+            if (v < 13) cout << names[v] << endl;
+            else
+            {
+                cout << names[12 + v / 13];
+                if (v % 13 == 0) cout << endl;
+                else cout << ' ' << names[v % 13] << endl;
+            }
+        }
+        else
+        {
+            int res = 0;
+            string word;
+            while (ssin >> word) res += get(word);
+            cout << res << endl;
+        }
+    }
+
+    return 0;
+}
+```
+
+## 5. 1496. 普通回文数
+
+![image-20220809131636671](https://s2.loli.net/2022/08/09/hGB8sviSaR3DOLQ.png)
+
+```c++
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+vector<int> nums;
+
+bool check()
+{
+    for (int i = 0, j = nums.size() - 1; i < j; i ++, j -- )
+        if (nums[i] != nums[j])
+            return false;
+
+    return true;
+}
+
+int main()
+{
+    int n, b;
+    cin >> n >> b;
+
+    if (!n) nums.push_back(0);
+    while (n) nums.push_back(n % b), n /= b;
+
+    if (check()) puts("Yes");
+    else puts("No");
+
+    cout << nums.back();
+    for (int i = nums.size() - 2; i >= 0; i -- ) cout << ' ' << nums[i];
+
+    return 0;
+}
+```
+
+# 第四章 排序
+
+## 1. 最佳排名
+
+![image-20220809131934433](https://s2.loli.net/2022/08/09/dQCsptXUAw7eaxv.png)
+
+```c++
+#include <iostream>
+#include <algorithm>
+#include <unordered_map>
+#include <vector>
+#include <cmath>
+
+using namespace std;
+
+unordered_map<string, vector<int>> grades;
+vector<int> q[4];  // A: q[0], C: q[1], M: q[2], E: q[3]
+
+int get_rank(vector<int>& a, int x)
+{
+    int l = 0, r = a.size() - 1;
+    while (l < r)
+    {
+        int mid = l + r + 1 >> 1;
+        if (a[mid] <= x) l = mid;
+        else r = mid - 1;
+    }
+    return a.size() - r;
+}
+
+int main()
+{
+    int n, m;
+    cin >> n >> m;
+
+    for (int i = 0; i < n; i ++ )
+    {
+        string id;
+        int t[4] = {0};
+        cin >> id;
+        for (int j = 1; j < 4; j ++ )
+        {
+            cin >> t[j];
+            t[0] += t[j];
+        }
+        t[0] = round(t[0] / 3.0);
+        for (int j = 0; j < 4; j ++ )
+        {
+            q[j].push_back(t[j]);
+            grades[id].push_back(t[j]);
+        }
+    }
+
+    for (int i = 0; i < 4; i ++ ) sort(q[i].begin(), q[i].end());
+
+    char names[] = "ACME";
+    while (m -- )
+    {
+        string id;
+        cin >> id;
+        if (grades.count(id) == 0) puts("N/A");
+        else
+        {
+            int res = n + 1;
+            char c;
+            for (int i = 0; i < 4; i ++ )
+            {
+                int rank = get_rank(q[i], grades[id][i]);
+                if (rank < res)
+                {
+                    res = rank;
+                    c = names[i];
+                }
+            }
+            cout << res << ' ' << c << endl;
+        }
+    }
+
+    return 0;
+}
+```
+
+
+
+## 2. 数字图书馆
+
+![image-20220809132008937](https://s2.loli.net/2022/08/09/rLTbYglcXqyD73M.png)
+
+```c++
+#include <iostream>
+#include <algorithm>
+#include <set>
+#include <vector>
+#include <sstream>
+
+using namespace std;
+
+struct Book
+{
+    string id, name, author;
+    set<string> keywords;
+    string publisher, year;
+};
+
+int main()
+{
+    int n, m;
+    cin >> n;
+
+    vector<Book> books;
+    while (n -- )
+    {
+        string id, name, author;
+        cin >> id;
+        getchar();
+        getline(cin, name), getline(cin, author);
+        string line;
+        getline(cin, line);
+        stringstream ssin(line);
+        string keyword;
+        set<string> keywords;
+        while (ssin >> keyword) keywords.insert(keyword);
+        string publisher, year;
+        getline(cin, publisher);
+        cin >> year;
+        books.push_back({id, name, author, keywords, publisher, year});
+    }
+
+    cin >> m;
+    getchar();
+    string line;
+    while (m -- )
+    {
+        getline(cin, line);
+        cout << line << endl;
+        string info = line.substr(3);
+        char t = line[0];
+        vector<string> res;
+        if (t == '1')
+        {
+            for (auto& book : books)
+                if (book.name == info)
+                    res.push_back(book.id);
+        }
+        else if (t == '2')
+        {
+            for (auto& book : books)
+                if (book.author == info)
+                    res.push_back(book.id);
+        }
+        else if (t == '3')
+        {
+            for (auto& book : books)
+                if (book.keywords.count(info))
+                    res.push_back(book.id);
+        }
+        else if (t == '4')
+        {
+            for (auto& book : books)
+                if (book.publisher == info)
+                    res.push_back(book.id);
+        }
+        else
+        {
+            for (auto& book : books)
+                if (book.year == info)
+                    res.push_back(book.id);
+        }
+
+        if (res.empty()) puts("Not Found");
+        else
+        {
+            sort(res.begin(), res.end());
+            for (auto id : res) cout << id << endl;
+        }
+    }
+
+    return 0;
+}
+
+作者：yxc
+链接：https://www.acwing.com/activity/content/code/content/272621/
+来源：AcWing
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+
+
+
+## 3. PAT排名
+
+![image-20220809132054106](https://s2.loli.net/2022/08/09/1feqOydpM8WiNEL.png)
+
+```c++
+#include <iostream>
+#include <algorithm>
+#include <vector>
+
+using namespace std;
+
+const int N = 110;
+
+struct Student
+{
+    string id;
+    int grade;
+    int location_number, local_rank, final_rank;
+
+    bool operator< (const Student& t) const
+    {
+        if (grade != t.grade) return grade > t.grade;
+        return id < t.id;
+    }
+};
+
+vector<Student> grades[N];
+vector<Student> all;
+
+int main()
+{
+    int n;
+    cin >> n;
+    for (int i = 1; i <= n; i ++ )
+    {
+        int k;
+        cin >> k;
+        for (int j = 0; j < k; j ++ )
+        {
+            string id;
+            int grade;
+            cin >> id >> grade;
+            grades[i].push_back({id, grade, i});
+        }
+
+        auto& g = grades[i];
+        sort(g.begin(), g.end());
+        for (int i = 0; i < g.size(); i ++ )
+        {
+            if (!i || g[i].grade != g[i - 1].grade)
+                g[i].local_rank = i + 1;
+            else
+                g[i].local_rank = g[i - 1].local_rank;
+            all.push_back(g[i]);
+        }
+    }
+
+    sort(all.begin(), all.end());
+    for (int i = 0; i < all.size(); i ++ )
+        if (!i || all[i].grade != all[i - 1].grade)
+            all[i].final_rank = i + 1;
+        else
+            all[i].final_rank = all[i - 1].final_rank;
+
+    cout << all.size() << endl;
+    for (auto& s : all)
+        cout << s.id << ' ' << s.final_rank << ' ' << s.location_number << ' ' << s.local_rank << endl;
+
+    return 0;
+}
+
+作者：yxc
+链接：https://www.acwing.com/activity/content/code/content/272643/
+来源：AcWing
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+
+
+
+## 4. 列表排序
+
+![image-20220809132139669](https://s2.loli.net/2022/08/09/BSapfsAYTv1RyIP.png)
+
+```c++
+#include <iostream>
+#include <algorithm>
+
+using namespace std;
+
+const int N = 100010;
+
+int n;
+
+struct Row
+{
+    string id, name;
+    int grade;
+}rows[N];
+
+bool cmp1(Row a, Row b)
+{
+    return a.id < b.id;
+}
+
+bool cmp2(Row a, Row b)
+{
+    if (a.name != b.name) return a.name < b.name;
+    return a.id < b.id;
+}
+
+bool cmp3(Row a, Row b)
+{
+    if (a.grade != b.grade) return a.grade < b.grade;
+    return a.id < b.id;
+}
+
+int main()
+{
+    int c;
+    scanf("%d%d", &n, &c);
+    char id[10], name[10];
+    for (int i = 0; i < n; i ++ )
+    {
+        int grade;
+        scanf("%s%s%d", id, name, &grade);
+        rows[i] = {id, name, grade};
+    }
+
+    if (c == 1) sort(rows, rows + n, cmp1);
+    else if (c == 2) sort(rows, rows + n, cmp2);
+    else sort(rows, rows + n, cmp3);
+
+    for (int i = 0; i < n; i ++ )
+        printf("%s %s %d\n", rows[i].id.c_str(), rows[i].name.c_str(), rows[i].grade);
+
+    return 0;
+}
+
+作者：yxc
+链接：https://www.acwing.com/activity/content/code/content/272659/
+来源：AcWing
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+
+
+
+## 5. 学生课程列表
+
+![image-20220809132227731](https://s2.loli.net/2022/08/09/9hmCY7legtrS68N.png)
+
+```c++
+
+#include <iostream>
+#include <algorithm>
+#include <unordered_map>
+#include <vector>
+
+using namespace std;
+
+unordered_map<string, vector<int>> students;
+
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+
+    int n, k;
+    cin >> n >> k;
+
+    while (k -- )
+    {
+        int id, m;
+        cin >> id >> m;
+        while (m -- )
+        {
+            string name;
+            cin >> name;
+            students[name].push_back(id);
+        }
+    }
+
+    while (n -- )
+    {
+        string name;
+        cin >> name;
+
+        auto& ls = students[name];
+        cout << name << ' ' << ls.size();
+        sort(ls.begin(), ls.end());
+
+        for (auto l : ls) cout << ' ' << l;
+        cout << endl;
+    }
+
+    return 0;
+}
+
+作者：yxc
+链接：https://www.acwing.com/activity/content/code/content/272679/
+来源：AcWing
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+
+
+
+## 6. 链表排序
+
+![image-20220809132301566](https://s2.loli.net/2022/08/09/6Ut3Tg4kSVYEdza.png)
+
+```c++
+#include <iostream>
+#include <algorithm>
+#include <unordered_map>
+#include <vector>
+
+using namespace std;
+
+struct Node
+{
+    string address;
+    int key;
+    string next;
+
+    bool operator< (const Node& t) const
+    {
+        return key < t.key;
+    }
+};
+
+int main()
+{
+    int n;
+    char head[10];
+    scanf("%d%s", &n, head);
+
+    unordered_map<string, Node> map;
+    char address[10], next[10];
+    while (n -- )
+    {
+        int key;
+        scanf("%s%d%s", address, &key, next);
+        map[address] = {address, key, next};
+    }
+
+    vector<Node> nodes;
+    for (string i = head; i != "-1"; i = map[i].next) nodes.push_back(map[i]);
+
+    printf("%d ", nodes.size());
+    if (nodes.empty()) puts("-1");
+    else
+    {
+        sort(nodes.begin(), nodes.end());
+        printf("%s\n", nodes[0].address.c_str());
+        for (int i = 0; i < nodes.size(); i ++ )
+        {
+            if (i + 1 == nodes.size())
+                printf("%s %d -1\n", nodes[i].address.c_str(), nodes[i].key);
+            else
+                printf("%s %d %s\n", nodes[i].address.c_str(), nodes[i].key, nodes[i + 1].address.c_str());
+        }
+    }
+
+    return 0;
+}
+
+作者：yxc
+链接：https://www.acwing.com/activity/content/code/content/272708/
+来源：AcWing
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+
+
+
+## 7. PAT评测
+
+![image-20220809132337266](https://s2.loli.net/2022/08/09/JteyUDfVrM26dFB.png)
+
+```c++
+#include <iostream>
+#include <algorithm>
+#include <unordered_map>
+#include <vector>
+
+using namespace std;
+
+struct Node
+{
+    string address;
+    int key;
+    string next;
+
+    bool operator< (const Node& t) const
+    {
+        return key < t.key;
+    }
+};
+
+int main()
+{
+    int n;
+    char head[10];
+    scanf("%d%s", &n, head);
+
+    unordered_map<string, Node> map;
+    char address[10], next[10];
+    while (n -- )
+    {
+        int key;
+        scanf("%s%d%s", address, &key, next);
+        map[address] = {address, key, next};
+    }
+
+    vector<Node> nodes;
+    for (string i = head; i != "-1"; i = map[i].next) nodes.push_back(map[i]);
+
+    printf("%d ", nodes.size());
+    if (nodes.empty()) puts("-1");
+    else
+    {
+        sort(nodes.begin(), nodes.end());
+        printf("%s\n", nodes[0].address.c_str());
+        for (int i = 0; i < nodes.size(); i ++ )
+        {
+            if (i + 1 == nodes.size())
+                printf("%s %d -1\n", nodes[i].address.c_str(), nodes[i].key);
+            else
+                printf("%s %d %s\n", nodes[i].address.c_str(), nodes[i].key, nodes[i + 1].address.c_str());
+        }
+    }
+
+    return 0;
+}
+
+作者：yxc
+链接：https://www.acwing.com/activity/content/code/content/272708/
+来源：AcWing
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+
+
+
+## 8. 插入还是堆排序
+
+![image-20220809132425787](https://s2.loli.net/2022/08/09/NZStyBmOzHsnb4X.png)
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+const int N = 110;
+
+int n;
+int a[N], b[N];
+
+void down(int u, int size)
+{
+    int t = u;
+    if (u * 2 <= size && b[t] < b[u * 2]) t = u * 2;
+    if (u * 2 + 1 <= size && b[t] < b[u * 2 + 1]) t = u * 2 + 1;
+    if (t != u)
+    {
+        swap(b[t], b[u]);
+        down(t, size);
+    }
+}
+
+int main()
+{
+    cin >> n;
+    for (int i = 1; i <= n; i ++ ) cin >> a[i];
+    for (int i = 1; i <= n; i ++ ) cin >> b[i];
+
+    int p = 2;
+    while (p <= n && b[p] >= b[p - 1]) p ++ ;
+    int k = p;
+    while (p <= n && a[p] == b[p]) p ++ ;
+    if (p == n + 1)  // 说明是插入排序
+    {
+        puts("Insertion Sort");
+        while (k > 1 && b[k] < b[k - 1]) swap(b[k], b[k - 1]), k -- ;
+    }
+    else  // 否则说明一定是堆排序
+    {
+        puts("Heap Sort");
+        p = n;
+        while (b[1] <= b[p]) p -- ;
+        swap(b[1], b[p]);
+        down(1, p - 1);
+    }
+
+    cout << b[1];
+    for (int i = 2; i <= n; i ++ ) cout << ' ' << b[i];
+    cout << endl;
+
+    return 0;
+}
+
+作者：yxc
+链接：https://www.acwing.com/activity/content/code/content/272766/
+来源：AcWing
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+
+
+
+## 9. 插入还是归并
+
+![image-20220809132452152](https://s2.loli.net/2022/08/09/LlfajJioWgs75UK.png)
+
+```c++
+#include <iostream>
+#include <cstring>
+#include <algorithm>
+
+using namespace std;
+
+const int N = 110;
+
+int n;
+int a[N], b[N];
+
+bool check()
+{
+    for (int i = 0; i < n; i ++ )
+        if (a[i] != b[i])
+            return false;
+    return true;
+}
+
+int main()
+{
+    cin >> n;
+    for (int i = 0; i < n; i ++ ) cin >> a[i];
+    for (int i = 0; i < n; i ++ ) cin >> b[i];
+
+    int k = 0;
+    while (b[k + 1] >= b[k]) k ++ ;
+
+    bool match = true;
+    for (int i = k + 1; i < n; i ++ )
+        if (a[i] != b[i])
+        {
+            match = false;
+            break;
+        }
+
+    if (match)
+    {
+        puts("Insertion Sort");
+        sort(b, b + k + 2);
+        cout << b[0];
+        for (int i = 1; i < n; i ++ ) cout << ' ' << b[i];
+        cout << endl;
+    }
+    else
+    {
+        puts("Merge Sort");
+
+        int k = 1;
+        while (true)
+        {
+            bool match = check();
+
+            int len = 1 << k;
+            for (int i = 0; i < n; i += len)
+                sort(a + i, a + min(n, i + len));
+
+            if (match) break;
+            k ++ ;
+        }
+
+        cout << a[0];
+        for (int i = 1; i < n; i ++ ) cout << ' '<< a[i];
+        cout << endl;
+    }
+
+    return 0;
+}
+
+作者：yxc
+链接：https://www.acwing.com/activity/content/code/content/323536/
 来源：AcWing
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
